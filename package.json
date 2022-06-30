@@ -1,5 +1,5 @@
 {
-  "name": "node-ts-template",
+  "name": "natter-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -12,8 +12,7 @@
   },
   "keywords": [],
   "author": "Ken C.Y. Leung",
-  "license": "UNLICENSED",
-  "private": true,
+  "license": "MIT",
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2",
     "@types/node": "^17.0.39",
